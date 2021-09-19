@@ -1,1 +1,1 @@
-console.log(New)
+document.write("New file added")
